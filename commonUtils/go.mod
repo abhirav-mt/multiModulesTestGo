@@ -1,4 +1,4 @@
-module github.com/abhirav-mt/multiModulesTestGo/common
+module github.com/abhirav-mt/multiModulesTestGo/commonUtils
 
 require github.com/abhirav-mt/multiModulesTestGo/module1 v0.0.0
 

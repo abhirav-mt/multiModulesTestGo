@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	commonUtils "github.com/abhirav-mt/multiModulesTestGo/common"
+	"github.com/abhirav-mt/multiModulesTestGo/commonUtils"
 	"github.com/abhirav-mt/multiModulesTestGo/module1/utils"
 )
 
