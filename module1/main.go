@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	commonUtils "github.com/MindTickle/common"
-	"github.com/MindTickle/module1/utils"
+	"github.com/abhirav-mt/multiModulesTestGo/module1/utils"
 )
 
 func main() {

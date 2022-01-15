@@ -1,4 +1,4 @@
-module github.com/MindTickle/module1
+module github.com/abhirav-mt/multiModulesTestGo/module1
 
 require github.com/MindTickle/common v0.0.0
 
