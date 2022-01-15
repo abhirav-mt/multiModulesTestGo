@@ -1,2 +1,4 @@
 github.com/abhirav-mt/multiModulesTestGo/module1 v0.0.0-20220115182946-6c51c18f531a h1:K2DMwxim+t9eiTId8B25lAKhK8kskp+Yym/DqNkyCS8=
 github.com/abhirav-mt/multiModulesTestGo/module1 v0.0.0-20220115182946-6c51c18f531a/go.mod h1:g8CQE1d8R5MXyvDHZjwY9iif1IS2TLp5dra4yrzGdrA=
+github.com/abhirav-mt/multiModulesTestGo/module1 v0.0.0-20220115190142-12e645a125b0 h1:xBNbmE64N/a0v4zju1rpWEKhdLg4qP5O1xhP7IWiKsg=
+github.com/abhirav-mt/multiModulesTestGo/module1 v0.0.0-20220115190142-12e645a125b0/go.mod h1:g8CQE1d8R5MXyvDHZjwY9iif1IS2TLp5dra4yrzGdrA=

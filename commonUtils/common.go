@@ -17,6 +17,6 @@ func SomethingFromMod1() {
 	fmt.Println(utils.AddTwoNum(3, 7))
 }
 
-func S3() {
-	fmt.Println(utils.AddThree(9, 0, 8))
+func S3(x int) {
+	fmt.Println(utils.AddThree(x, 0, 8))
 }
