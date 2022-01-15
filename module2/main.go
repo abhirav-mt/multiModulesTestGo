@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/MindTickle/module2/utils"
+	"github.com/abhirav-mt/multiModulesTestGo/module2/utils"
 )
 
 func main() {

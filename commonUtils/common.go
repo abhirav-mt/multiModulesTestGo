@@ -2,7 +2,7 @@ package commonUtils
 
 import (
 	"fmt"
-	"github.com/MindTickle/module1/utils"
+	"github.com/abhirav-mt/multiModulesTestGo/module1/utils"
 )
 
 func PrintRandom() {
